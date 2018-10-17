@@ -1,0 +1,33 @@
+@import './libs/keact/css/normalize.scss';
+@import './libs/keact/css/flex.scss';
+@import './libs/keact/css/common.scss';
+
+.container {
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+
+.page {
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+
+
+.Test {
+  padding: 0 .2rem;
+}
+
+.test-title {
+  color: #d33;
+}
+
+
+
